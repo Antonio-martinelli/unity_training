@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using Unity.AI;
 
 public class FollowPlayer : MonoBehaviour {
 
